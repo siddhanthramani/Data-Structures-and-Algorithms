@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578908560 source:c:\users\lenovo\desktop\sem 6\ds and algo\recursion\recursion_factorial.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

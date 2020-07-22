@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582532459 source:c:\users\lenovo\desktop\sem 6\ds and algo\sorting\bubblesort.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
